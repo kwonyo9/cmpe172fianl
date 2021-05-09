@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 San Jose State University
 Enterprise Software - CMPE172 / Fall 2020
 Collin Chow, Danny Song, Yongwon Kwon
@@ -69,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# cmpe172fianl
+>>>>>>> Initial commit
