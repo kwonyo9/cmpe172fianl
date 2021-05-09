@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+San Jose State University
+Enterprise Software - CMPE172 / Fall 2020
+Collin Chow, Danny Song, Yongwon Kwon
+Movie Theater Reservation Application
 
 ## Available Scripts
 
